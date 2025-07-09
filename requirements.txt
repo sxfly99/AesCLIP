@@ -1,0 +1,13 @@
+pillow~=10.0.1
+torchvision~=0.16.1
+tqdm~=4.66.1
+numpy~=1.26.2
+ftfy~=6.1.3
+regex~=2023.10.3
+timm~=0.9.12
+requests~=2.31.0
+pandas~=2.1.1
+scipy~=1.11.4
+scikit-learn~=1.3.2
+nni~=3.0
+tensorboardx~=2.2
